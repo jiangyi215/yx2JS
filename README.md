@@ -12,13 +12,24 @@
 #### 使用vue-cli3.0 创建项目  需自增的vue.config.js 配置  
 
 
-### 喜欢就 ##Star ### 一下吧
+### 喜欢就 Star 一下吧
 
 
-### 💖💖 If you think this project will help, maybe you can buy a diaper for my puppy. 💖💖
+#### 💖💖 If you think this project will help, maybe you can buy a diaper for my puppy. 💖💖
 
 <p align="center">
-    <a href="https://github.com/jiangyi215/yx2JS">
-        <img width="200" src="https://raw.githubusercontent.com/jiangyi215/yx2JS/master/images/gaipian.jpg">
-    </a>
+  <a href="https://github.com/jiangyi215/yx2JS">
+    <img width="240" src="https://raw.githubusercontent.com/jiangyi215/yx2JS/master/images/gaipian.jpg">
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/jiangyi215/yx2JS">
+    <img width="200" src="https://raw.githubusercontent.com/jiangyi215/yx2JS/master/images/cute.jpg">
+  </a>
+  <a href="https://github.com/jiangyi215/yx2JS">
+    <img width="200" src="https://raw.githubusercontent.com/jiangyi215/yx2JS/master/images/play.jpg">
+  </a>
+  <a href="https://github.com/jiangyi215/yx2JS">
+    <img width="200" src="https://raw.githubusercontent.com/jiangyi215/yx2JS/master/images/sleep.jpg">
+  </a>
 </p>
