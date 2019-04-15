@@ -32,7 +32,9 @@ export default {
       result: {} // 是否已验证极验
     }
   },
-  created() {},
+  created() {
+    this.getInitGtTest()
+  },
   methods: {
     getInitGtTest() {
       this.$http.get("https://www.geetest.com/demo/gt/register-click?t="+ (new Date()).getTime())
@@ -44,7 +46,7 @@ export default {
             challenge: data.challenge,
             offline: !data.success, // 用户后台检测极验服务器是否宕机
             new_captcha: data.new_captcha, // 用于宕机时表示新验证码的宕机是
-            product: "bind", // 产品形式, float, popup
+            product: "float", // 产品形式, float, popup
             width: "100%" //  width: "300px" 极验显示宽度
           }, captchaObj => { // 箭头函数 若使用function 使用this报错
             this.captchaObj = captchaObj
@@ -57,6 +59,9 @@ export default {
                * 将极验结果赋值给result 便于在点击登录按钮时做判断 是否已经完成极验
                */
               this.result = captchaObj.getValidate(); 
+            });
+            captchaObj.onError(() => {
+              this.$Message.error("出错啦, 请稍后重试!");
             })
           })
         }
