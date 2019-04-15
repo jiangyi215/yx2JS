@@ -22,7 +22,7 @@
 
 <p align="center">
   <a href="https://github.com/jiangyi215/yx2JS">
-    <img width="240" src="https://raw.githubusercontent.com/jiangyi215/yx2JS/master/images/gaipian.jpg">
+    <img width="400" src="https://raw.githubusercontent.com/jiangyi215/yx2JS/master/images/gaipian.jpg">
   </a>
 </p>
 <p align="center">
