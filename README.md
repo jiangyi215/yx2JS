@@ -18,14 +18,14 @@
 
 #### [打赏的童鞋务必请留下你的姓名和联系方式哟~~]
 
-#### 💖💖 If you think this project will help, maybe you can buy a diaper for my puppy. 💖💖
+#### 💖💖 If you think this project will help, maybe you can buy a diaper for my cute puppy. 💖💖
 
 <p align="center">
   <a href="https://github.com/jiangyi215/yx2JS">
     <img width="400" src="https://raw.githubusercontent.com/jiangyi215/yx2JS/master/images/gaipian.jpg">
   </a>
 </p>
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/jiangyi215/yx2JS">
     <img width="200" src="https://raw.githubusercontent.com/jiangyi215/yx2JS/master/images/cute.jpg">
   </a>
@@ -35,4 +35,4 @@
   <a href="https://github.com/jiangyi215/yx2JS">
     <img width="200" src="https://raw.githubusercontent.com/jiangyi215/yx2JS/master/images/sleep.jpg">
   </a>
-</p>
+</p> -->
